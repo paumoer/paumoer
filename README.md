@@ -1,7 +1,6 @@
 ## Hi there 👋
-## 🔭 I’m currently working on my master thesis in Industrial Ecology.
-## 🌱 I’m currently learning how to use Brightway2 and 2.5 with premise. 
-## ☁ I am looking into the environmental impacts of Direct Air Carbon Capture and Storage. 
+## 🔭 I’m an Industrial Ecologist.
+## ☁ I am currently looking into the environmental impacts of Direct Air Carbon Capture and Storage with the help of pLCA using Brightway with premise. 
 
 <!--
 **paumoer/paumoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
